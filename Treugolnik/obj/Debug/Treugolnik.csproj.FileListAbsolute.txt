@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Treugolnik\Treugolnik\bin\Debug\Treugolnik.exe.config
+C:\Users\User\source\repos\Treugolnik\Treugolnik\bin\Debug\Treugolnik.exe
+C:\Users\User\source\repos\Treugolnik\Treugolnik\bin\Debug\Treugolnik.pdb
+C:\Users\User\source\repos\Treugolnik\Treugolnik\bin\Debug\xunit.abstractions.dll
+C:\Users\User\source\repos\Treugolnik\Treugolnik\bin\Debug\xunit.assert.dll
+C:\Users\User\source\repos\Treugolnik\Treugolnik\bin\Debug\xunit.core.dll
+C:\Users\User\source\repos\Treugolnik\Treugolnik\bin\Debug\xunit.execution.desktop.dll
+C:\Users\User\source\repos\Treugolnik\Treugolnik\bin\Debug\xunit.abstractions.xml
+C:\Users\User\source\repos\Treugolnik\Treugolnik\bin\Debug\xunit.assert.xml
+C:\Users\User\source\repos\Treugolnik\Treugolnik\bin\Debug\xunit.core.xml
+C:\Users\User\source\repos\Treugolnik\Treugolnik\bin\Debug\xunit.execution.desktop.xml
+C:\Users\User\source\repos\Treugolnik\Treugolnik\obj\Debug\Treugolnik.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Treugolnik\Treugolnik\obj\Debug\Treugolnik.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Treugolnik\Treugolnik\obj\Debug\Treugolnik.csproj.Up2Date
+C:\Users\User\source\repos\Treugolnik\Treugolnik\obj\Debug\Treugolnik.exe
+C:\Users\User\source\repos\Treugolnik\Treugolnik\obj\Debug\Treugolnik.pdb
